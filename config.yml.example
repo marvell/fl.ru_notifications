@@ -1,0 +1,12 @@
+---
+user_agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+
+login: <fl.ru login>
+password: <fl.ru password>
+
+queries:
+- rails
+- ruby
+
+send_sms_to: <phone number>
+sms_ru_token: <sms.ru token>
